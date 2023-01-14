@@ -10,5 +10,5 @@ Paste the code and press enter.
 ![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/3.png)
 
 Below the video you should be able to see number for volume gain (1 = 100%, 2 = 200%, etc).
-You can change the gain by typing in it or scroll within the number.
+You can change the gain by typing in it or scroll inside number box.
 ![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/4.png)
