@@ -1,14 +1,14 @@
 # youtube-gain
 Simple youtube audio gain via console
 You can copy the code from [>>>>>>HERE<<<<<<](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/youtubeGain.js)
-![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/Tutorialimages/1.png)
+![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/1.png)
 
 Play videos that you want to loop, after that press F12 (If there's confirmation option just click yes) and find Console tab from there.
-![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/Tutorialimages/2.png)
+![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/2.png)
 
 Paste the code and press enter.
-![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/Tutorialimages/3.png)
+![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/3.png)
 
 Below the video you should be able to see number for volume gain (1 = 100%, 2 = 200%, etc).
 You can change the gain by typing in it or scroll within the number.
-![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/Tutorialimages/4.png)
+![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/4.png)
