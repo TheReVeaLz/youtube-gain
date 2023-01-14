@@ -1,6 +1,6 @@
 # youtube-gain
 Simple youtube audio gain via console
-You can copy the code from [>>>>>>HERE<<<<<<](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/youtubeGain.js)
+You can copy the code from [>>>>>>HERE<<<<<<](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/youtubeGainV2.js)
 ![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/1.png)
 
 Play videos that you want to loop, after that press F12 (If there's confirmation option just click yes) and find Console tab from there.
