@@ -1,6 +1,6 @@
 # youtube-gain
 Simple youtube audio gain via console
-You can copy the code from [>>>>>>HERE<<<<<<](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/youtubeGainV2.js)
+You can copy the code from [>>>>>>HERE<<<<<<](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/JS/youtubeGain.js)
 <details>
 <summary>How to use the code</summary>
 ![alt text](https://raw.githubusercontent.com/TheReVeaLz/youtube-gain/main/TutorialImages/1.png)
