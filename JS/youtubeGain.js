@@ -23,7 +23,7 @@ if (!(!!document.getElementById('gainInput'))) {
     gainVal.type = "text";
     gainVal.placeholder = "Gain Volume";
     gainVal.value = "1";
-    gainVal.classList.add('yt-spec-button-shape-next--tonal', 'yt-spec-button-shape-next--mono');
+    gainVal.classList.add('ytSpecButtonShapeNextTonal', 'ytSpecButtonShapeNextMono');
     gainVal.onclick = function() {
         this.select()
     };
